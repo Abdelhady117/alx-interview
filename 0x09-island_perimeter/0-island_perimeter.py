@@ -11,7 +11,8 @@ The grid is completely surrounded by water
 There is only one island (or nothing).
 """
 
-def island_perimeter (grid):
+
+def island_perimeter(grid):
     """
     Returns the perimeter of the island described in grid.
     """
